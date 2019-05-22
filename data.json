@@ -16,5 +16,23 @@
       "password" : "password3",
       "profession" : "SE",
       "id": 3
+   },
+      "user4" : {
+      "name" : "Pdp",
+      "password" : "password1",
+      "profession" : "OUC",
+      "id": 1
+   },
+   "user5" : {
+      "name" : "ABC",
+      "password" : "password2",
+      "profession" : "SD",
+      "id": 2
+   },
+   "user6" : {
+      "name" : "XVY",
+      "password" : "password3",
+      "profession" : "SE",
+      "id": 3
    }
 }
